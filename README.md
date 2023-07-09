@@ -1,5 +1,5 @@
 # Spring_basic: 인프런 김영한님 <스프링 입문-코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술>
-0_프로젝트 환경설정
+****0_프로젝트 환경설정
   - 프로젝트 생성
     Project: Gradle-Groovy Project
     Spring Boot: 2.3.x
